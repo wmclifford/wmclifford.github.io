@@ -1,0 +1,8 @@
+title: Wmclifford.github.io
+description: User/Organizational pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
