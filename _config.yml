@@ -1,8 +1,3 @@
-title: Wmclifford.github.io
-description: User/Organizational pages
-google_analytics: 
-show_downloads: true
+title: LUMIS
+description: A personal productivity tool with Google Workspace integration
 theme: jekyll-theme-minimal
-
-gems:
-  - jekyll-mentions

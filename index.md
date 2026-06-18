@@ -1,22 +1,32 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+---
+layout: default
+title: LUMIS
+---
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+# LUMIS
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+LUMIS is a personal productivity tool that integrates with Google Workspace services to help manage daily workflows, monitor activity, and organize information.
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+## Features
 
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+- **Email Monitoring** — Read-only access to Gmail for surfacing unread and important messages
+- **Calendar Management** — Read and write access to Google Calendar for viewing and creating events
+- **Local-First Storage** — All data is processed and stored locally; nothing is sent to third-party services
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+## Google API Usage
 
-### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+LUMIS accesses the following Google API scopes:
+
+- `gmail.readonly` — Read-only access to Gmail messages and labels
+- `calendar` — Read and write access to Google Calendar events
+
+These scopes are used solely for the features described above. See the [Privacy Policy](/privacy) for full details on data handling.
+
+## Links
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
+
+## Contact
+
+For questions or concerns, contact [william.clifford.mit@gmail.com](mailto:william.clifford.mit@gmail.com).
