@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last updated:** June 17, 2026
+**Last updated:** June 20, 2026
 
 This privacy policy describes how LUMIS ("the application") handles data accessed through Google Workspace APIs.
 
@@ -13,7 +13,7 @@ This privacy policy describes how LUMIS ("the application") handles data accesse
 
 LUMIS accesses the following data from your Google account:
 
-- **Gmail (read-only):** Email message metadata (sender, subject, date, labels) and message content for the purpose of surfacing unread and important messages. LUMIS does not send, modify, or delete emails.
+- **Gmail (read and write):** Email message metadata (sender, subject, date, labels) and message content for the purpose of surfacing important messages, tracking conversation threads, and managing drafts. LUMIS may read, compose, and modify messages and labels. LUMIS does not permanently delete emails.
 - **Google Calendar (read and write):** Calendar event details (title, date, time, description, attendees) for the purpose of viewing your schedule and creating new events.
 
 ## How Data Is Used

@@ -5,7 +5,7 @@ title: Terms of Service
 
 # Terms of Service
 
-**Last updated:** June 17, 2026
+**Last updated:** June 20, 2026
 
 ## Overview
 
@@ -19,7 +19,7 @@ LUMIS is provided for personal, non-commercial use. The application runs locally
 
 By authorizing LUMIS to access your Google account, you grant the application permission to:
 
-- Read your Gmail messages and labels (read-only)
+- Read, compose, and modify your Gmail messages, labels, and drafts (does not include permanent deletion)
 - Read and create Google Calendar events
 
 You may revoke this access at any time through your [Google Account permissions page](https://myaccount.google.com/permissions).

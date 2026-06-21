@@ -9,15 +9,15 @@ LUMIS is a personal productivity tool that integrates with Google Workspace serv
 
 ## Features
 
-- **Email Monitoring** — Read-only access to Gmail for surfacing unread and important messages
-- **Calendar Management** — Read and write access to Google Calendar for viewing and creating events
+- **Email Monitoring & Management** — Access to Gmail for surfacing important messages, tracking conversation threads, and managing drafts
+- **Calendar Management** — Read and write access to Google Calendar for viewing your schedule and creating events
 - **Local-First Storage** — All data is processed and stored locally; nothing is sent to third-party services
 
 ## Google API Usage
 
 LUMIS accesses the following Google API scopes:
 
-- `gmail.readonly` — Read-only access to Gmail messages and labels
+- `gmail.modify` — Read and write access to Gmail messages, labels, and drafts (does not include permanent deletion)
 - `calendar` — Read and write access to Google Calendar events
 
 These scopes are used solely for the features described above. See the [Privacy Policy](/privacy) for full details on data handling.
